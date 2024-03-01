@@ -130,7 +130,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 2310960340485726343}
   forwardForce: 8000
-  sidewaysForce: 120
+  sidewaysForce: 60
   jumpForce: 1000
   gravity: -9.81
 --- !u!114 &2310960340485726337
