@@ -43,8 +43,6 @@ public class PlayerCollision : MonoBehaviour
             cam.transform.position = follow.reverseOffset;
             if (follow.offset.y == 1)
             {
-                // zRotation = 180;
-                //FollowPlayer.reverse = true;
                 follow.offset.y = -1f;
             } else if (follow.offset.y == -1)
             {
